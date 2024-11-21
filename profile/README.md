@@ -8,9 +8,13 @@
 
 ### Who We Serve 🌍
 
+- Hospitality & Service Providers
+- Personal Service Professionals
+- Startups & Freelancers
+
 ---
 
-## Why We Exist 💡
+## Why DeskAPI Exists 💡
 
 ### The Challenges We Address ⚠️
 
@@ -18,7 +22,7 @@
 
 ---
 
-## How We Operate ⚙️
+## How DeskAPI Operates ⚙️
 
 ### Our Workflow 🔄
 
