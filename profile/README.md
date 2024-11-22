@@ -1,6 +1,10 @@
 # Welcome to DeskAPI 🌟
 
+[![Back-end](https://skillicons.dev/icons?i=python,django,postgres,redis,postman)](https://skillicons.dev)
+
 ## Overview 📋
+
+APIs for task management and booking systems. Built with Django & DRF, it offers flexible, scalable solutions for various industries.
 
 ---
 
