@@ -6,6 +6,8 @@
 
 ## What We Build at DeskAPI 🛠️
 
+**DeskAPI** specializes in building scalable and customizable APIs designed to power **task management** and **booking systems**.
+
 ### Who We Serve 🌍
 
 - Hospitality & Service Providers
