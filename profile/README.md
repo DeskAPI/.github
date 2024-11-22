@@ -6,7 +6,7 @@
 
 ## What We Build at DeskAPI 🛠️
 
-**DeskAPI** specializes in building scalable and customizable APIs designed to power **task management** and **booking systems**. Built with flexibility in mind, **DeskAPI** is front-end agnostic, allowing seamless integration with any front-end framework or technology.
+**DeskAPI** creates scalable and customizable **APIs** for **task management** and **booking systems**. Its flexible design supports a variety of workflows, and its **front-end agnostic** approach ensures seamless integration with any framework, empowering developers to build efficient, user-friendly applications.  
 
 ### Who We Serve 🌍
 
